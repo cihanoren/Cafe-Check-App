@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C# Cafe Uygulamas\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|F:\\C# Cafe Uygulamas\u0131\\windowsformsapp2\\fonksiyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\fonksiyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|f:\\c# cafe uygulamas\u0131\\windowsformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|F:\\C# Cafe Uygulamas\u0131\\windowsformsapp2\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|F:\\C# Cafe Uygulamas\u0131\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|f:\\c# cafe uygulamas\u0131\\windowsformsapp2\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|F:\\C# Cafe Uygulamas\u0131\\windowsformsapp2\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|F:\\C# Cafe Uygulamas\u0131\\windowsformsapp2\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|F:\\C# Cafe Uygulamas\u0131\\windowsformsapp2\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|F:\\C# Cafe Uygulamas\u0131\\windowsformsapp2\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|F:\\C# Cafe Uygulamas\u0131\\windowsformsapp2\\musteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\musteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|F:\\C# Cafe Uygulamas\u0131\\windowsformsapp2\\musteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\musteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|F:\\C# Cafe Uygulamas\u0131\\windowsformsapp2\\kullan\u0131c\u0131lar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\kullan\u0131c\u0131lar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|F:\\C# Cafe Uygulamas\u0131\\windowsformsapp2\\adisyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\adisyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|F:\\C# Cafe Uygulamas\u0131\\windowsformsapp2\\kullan\u0131c\u0131lar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\kullan\u0131c\u0131lar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|F:\\C# Cafe Uygulamas\u0131\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|F:\\C# Cafe Uygulamas\u0131\\windowsformsapp2\\adisyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\adisyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|F:\\C# Cafe Uygulamas\u0131\\windowsformsapp2\\adisyon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F80CF62-89FE-4910-BDF7-125507654175}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\adisyon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Program.cs",
+              "ToolTip": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:52:15.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Urunler.cs",
+              "DocumentMoniker": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Urunler.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Urunler.cs",
+              "ToolTip": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Urunler.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Urunler.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-19T05:50:56.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Form1.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAiwJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:50:56.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WindowsFormsApp2\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:50:56.497Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Giris.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Giris.cs",
+              "ToolTip": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WindowsFormsApp2\\Giris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:50:56.501Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Odeme.cs [Design]",
+              "DocumentMoniker": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Odeme.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Odeme.cs",
+              "ToolTip": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Odeme.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\Odeme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:50:56.504Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Odeme.cs",
+              "DocumentMoniker": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Odeme.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Odeme.cs",
+              "ToolTip": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Odeme.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Odeme.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:50:56.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Giris.cs",
+              "DocumentMoniker": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Giris.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Giris.cs",
+              "ToolTip": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Giris.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Giris.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:50:57.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fonksiyon.cs",
+              "DocumentMoniker": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Fonksiyon.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Fonksiyon.cs",
+              "ToolTip": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Fonksiyon.cs*",
+              "RelativeToolTip": "WindowsFormsApp2\\Fonksiyon.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:50:57.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Urunler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Urunler.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Urunler.cs",
+              "ToolTip": "C:\\Users\\C\u0130HAN\\Desktop\\WindowsFormsApp2\\WindowsFormsApp2\\Urunler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-19T05:50:57.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Kullan\u0131c\u0131lar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Kullan\u0131c\u0131lar.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Kullan\u0131c\u0131lar.cs",
+              "ToolTip": "WindowsFormsApp2/Kullan\u0131c\u0131lar.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-19T05:50:57.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Musteriler.cs",
+              "DocumentMoniker": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Musteriler.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Musteriler.cs",
+              "ToolTip": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Musteriler.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Musteriler.cs",
+              "ViewState": "AQIAANwAAAAAAAAAAAAgwO0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-19T05:50:57.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Adisyon.Designer.cs",
+              "DocumentMoniker": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Adisyon.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Adisyon.Designer.cs",
+              "ToolTip": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Adisyon.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Adisyon.Designer.cs",
+              "ViewState": "AQIAADQBAAAAAAAAAAAnwBABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-08-19T05:50:57.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Adisyon.cs",
+              "DocumentMoniker": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Adisyon.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Adisyon.cs",
+              "ToolTip": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Adisyon.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Adisyon.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAowEAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-19T05:50:57.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Adisyon.cs [Tasar\u0131m]",
+              "DocumentMoniker": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Adisyon.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Adisyon.cs",
+              "ToolTip": "WindowsFormsApp2/Adisyon.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-19T05:50:57.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Musteriler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Musteriler.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Musteriler.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\Meti\\C#\\WindowsFormsApp2\\WindowsFormsApp2\\Musteriler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-19T05:50:57.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Kullan\u0131c\u0131lar.cs",
+              "DocumentMoniker": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Kullan\u0131c\u0131lar.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Kullan\u0131c\u0131lar.cs",
+              "ToolTip": "F:\\C# Cafe Uygulamas\u0131\\WindowsFormsApp2\\Kullan\u0131c\u0131lar.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Kullan\u0131c\u0131lar.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAArwHYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-19T05:50:57.27Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

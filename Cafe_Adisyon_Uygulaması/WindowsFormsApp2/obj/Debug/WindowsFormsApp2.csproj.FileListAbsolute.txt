@@ -1,0 +1,74 @@
+C:\Users\MUH-LAB-101-21\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\MUH-LAB-101-21\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\MUH-LAB-101-21\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\MUH-LAB-101-21\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\MUH-LAB-101-21\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\MUH-LAB-101-21\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\MUH-LAB-101-21\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\MUH-LAB-101-21\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\MUH-LAB-101-21\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\MUH-LAB-101-21\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\MUH-LAB-101-21\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Adisyon.resources
+C:\Users\MUH-LAB-101-21\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\MUH-LAB-101-21\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\MUH-LAB-101-21\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\MUH-LAB-101-21\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\MUH-LAB-101-21\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Adisyon.resources
+C:\Users\MUH-LAB-101-21\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\MUH-LAB-101-21\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Kullanıcılar.resources
+C:\Users\MUH-LAB-101-21\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\MUH-LAB-101-21\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\MUH-LAB-101-21\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\MUH-LAB-101-21\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\MUH-LAB-101-21\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\MUH-LAB-101-21\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Musteriler.resources
+C:\Users\MUH-LAB-101-21\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Urunler.resources
+C:\Users\MUH-LAB-101-21\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Odeme.resources
+C:\Users\Monster\Desktop\Meti\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Meti\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Adisyon.resources
+C:\Users\Monster\Desktop\Meti\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Monster\Desktop\Meti\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Kullanıcılar.resources
+C:\Users\Monster\Desktop\Meti\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Musteriler.resources
+C:\Users\Monster\Desktop\Meti\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Odeme.resources
+C:\Users\Monster\Desktop\Meti\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Urunler.resources
+C:\Users\Monster\Desktop\Meti\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\Meti\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Meti\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Giris.resources
+C:\Users\Monster\Desktop\Meti\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\CAFE_UYGULAMASI.Properties.Resources.resources
+C:\Users\Monster\Desktop\Meti\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\CAFE_UYGULAMASI.exe.config
+C:\Users\Monster\Desktop\Meti\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\CAFE_UYGULAMASI.exe
+C:\Users\Monster\Desktop\Meti\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\CAFE_UYGULAMASI.pdb
+C:\Users\Monster\Desktop\Meti\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\CAFE_UYGULAMASI.exe
+C:\Users\Monster\Desktop\Meti\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\CAFE_UYGULAMASI.pdb
+C:\Users\CİHAN\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\CAFE_UYGULAMASI.exe.config
+C:\Users\CİHAN\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\CAFE_UYGULAMASI.exe
+C:\Users\CİHAN\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\CAFE_UYGULAMASI.pdb
+C:\Users\CİHAN\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\CİHAN\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Adisyon.resources
+C:\Users\CİHAN\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\CİHAN\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Giris.resources
+C:\Users\CİHAN\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Kullanıcılar.resources
+C:\Users\CİHAN\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Musteriler.resources
+C:\Users\CİHAN\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Odeme.resources
+C:\Users\CİHAN\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\CAFE_UYGULAMASI.Properties.Resources.resources
+C:\Users\CİHAN\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Urunler.resources
+C:\Users\CİHAN\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\CİHAN\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\CİHAN\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\CAFE_UYGULAMASI.exe
+C:\Users\CİHAN\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\CAFE_UYGULAMASI.pdb
+F:\C# Cafe Uygulaması\WindowsFormsApp2\bin\Debug\CAFE_UYGULAMASI.exe.config
+F:\C# Cafe Uygulaması\WindowsFormsApp2\bin\Debug\CAFE_UYGULAMASI.exe
+F:\C# Cafe Uygulaması\WindowsFormsApp2\bin\Debug\CAFE_UYGULAMASI.pdb
+F:\C# Cafe Uygulaması\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+F:\C# Cafe Uygulaması\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Adisyon.resources
+F:\C# Cafe Uygulaması\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\C# Cafe Uygulaması\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Giris.resources
+F:\C# Cafe Uygulaması\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Kullanıcılar.resources
+F:\C# Cafe Uygulaması\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Musteriler.resources
+F:\C# Cafe Uygulaması\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Odeme.resources
+F:\C# Cafe Uygulaması\WindowsFormsApp2\obj\Debug\CAFE_UYGULAMASI.Properties.Resources.resources
+F:\C# Cafe Uygulaması\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Urunler.resources
+F:\C# Cafe Uygulaması\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\C# Cafe Uygulaması\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\C# Cafe Uygulaması\WindowsFormsApp2\obj\Debug\CAFE_UYGULAMASI.exe
+F:\C# Cafe Uygulaması\WindowsFormsApp2\obj\Debug\CAFE_UYGULAMASI.pdb
